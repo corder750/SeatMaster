@@ -4,7 +4,7 @@ SeatMaster is a simple, visual restaurant seat management prototype built in Cod
 
 ## Live Website
 
-- **Git Pages:** https://corder750.github.io/SeatMaster/blog.html
+- **Git Pages:** https://corder750.github.io/SeatMaster/
 
 ## Live App
 
