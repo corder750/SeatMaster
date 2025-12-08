@@ -1,23 +1,49 @@
 {
   "updates": [
     {
-      "title": "v0.3 – Basic Color Tests",
+      "title": "v0.1 – Button Playground",
       "items": [
-        "Experimented with green/red table colors for open vs occupied.",
-        "Tested how colors looked on dark vs light backgrounds.",
-        "Decided to stick with a dark theme for better contrast."
+        "Created the very first layout using simple buttons for tables.",
+        "Each button could change color, but there was no real logic behind it.",
+        "Used this version mainly to test the idea of a visual seating map."
       ],
-      "note": "Archived pre-release build"
+      "note": "Pre-release test build"
     },
     {
-      "title": "v0.5 – Manual Seat Counting",
+      "title": "v0.2 – Basic Status Toggling",
       "items": [
-        "Added rough seat counts for each table.",
-        "Counters were manually updated before automation.",
-        "Helped plan the final automatic counter system."
+        "Added a simple open/occupied toggle when tapping a table button.",
+        "Started experimenting with using green for open and red for occupied.",
+        "No counters or list mode existed yet, just raw interaction testing."
       ],
-      "note": "Stepping stone towards v1.0"
+      "note": "Early interaction prototype"
+    },
+    {
+      "title": "v0.4 – Seat Labels & Table Names",
+      "items": [
+        "Gave each table a name/number so it was easier to talk about them.",
+        "Added seat counts to help imagine real restaurant capacity.",
+        "Organized tables into rough groups: booths, indoor, and patio."
+      ],
+      "note": "Foundation for future list view"
+    },
+    {
+      "title": "v0.6 – Early Counter Experiments",
+      "items": [
+        "Started experimenting with manual counters for open vs occupied tables.",
+        "Counters did not always match the table colors but helped shape the final idea.",
+        "Showed how useful it was to see capacity at a glance."
+      ],
+      "note": "Step towards automated live counters"
+    },
+    {
+      "title": "v0.9 – Pre v1.0 Polish",
+      "items": [
+        "Cleaned up button placement and spacing on the floor map.",
+        "Tweaked colors to improve contrast on darker backgrounds.",
+        "Prepared the layout that would become the official v1.0 prototype."
+      ],
+      "note": "Last build before v1.0 release"
     }
   ]
 }
-
