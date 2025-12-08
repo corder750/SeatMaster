@@ -1,1 +1,23 @@
+{
+  "updates": [
+    {
+      "title": "v0.3 – Basic Color Tests",
+      "items": [
+        "Experimented with green/red table colors for open vs occupied.",
+        "Tested how colors looked on dark vs light backgrounds.",
+        "Decided to stick with a dark theme for better contrast."
+      ],
+      "note": "Archived pre-release build"
+    },
+    {
+      "title": "v0.5 – Manual Seat Counting",
+      "items": [
+        "Added rough seat counts for each table.",
+        "Counters were manually updated before automation.",
+        "Helped plan the final automatic counter system."
+      ],
+      "note": "Stepping stone towards v1.0"
+    }
+  ]
+}
 
