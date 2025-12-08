@@ -1,1 +1,15 @@
+{
+  "posts": [
+    {
+      "title": "📋 Early Seat Map Sketches",
+      "body": "First draft versions of the SeatMaster layout, including rough booth, indoor, and patio sections built in Code.org.",
+      "note": "Archived: October 2025"
+    },
+    {
+      "title": "🧪 List Mode Prototype",
+      "body": "Tested an early version of List Mode showing tables, seats, and status in one long list before the current design.",
+      "note": "Archived: November 2025"
+    }
+  ]
+}
 
